@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axell
 - 🧑‍💻 I’m Discord bot developer
-- 🪐 I'm one of my own
+- 🪐 I'm On My Own
 
 <!---
 iAxell/iAxell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
